@@ -49,6 +49,12 @@ section {
   margin: auto;
 }
 
+section p {
+  text-indent: 30px;
+  line-height: 30px;
+  font-size: 22px;
+}
+
 .skills ul {
   list-style: none;
   padding: 0;
