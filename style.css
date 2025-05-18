@@ -28,13 +28,13 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #1fa014;
+  background-image: linear-gradient(to right, purple, rgba(113, 113, 242, 0.331));
   color: #0b0101;
 }
 
 header {
   background: #282c34;
-  color: white;
+  color: rgb(223, 199, 199);
   text-align: center;
   padding: 2rem 1rem;
 }
